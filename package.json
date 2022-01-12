@@ -2,7 +2,7 @@
   "name": "kaviyaah/lusifarweb",
   "version": "3.5.3",
   "description": "WhatsApp Web API",
-  "homepage": "https://github.com/kavishkaya/BotlusifarWhatsapp",
+  "homepage": "https://github.com/kaviyaah2/lusifarweb",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "keywords": [
@@ -22,7 +22,7 @@
   "author": "Adhiraj Singh",
   "license": "MIT",
   "repository": {
-    "url": "git@github.com:kavishkaya/lusifarweb.git"
+    "url": "git@github.com:kaviyaah2/lusifarweb.git"
   },
   "dependencies": {
     "@kavishkaya/lusifarweb-db": "^0.2.2",
